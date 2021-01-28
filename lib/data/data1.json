@@ -1,0 +1,2697 @@
+{
+  "app_version": "20200826",
+  "errors": null,
+  "results": [
+    {
+      "_id": {
+        "in_patient": 1
+      },
+      "datas": [
+        {
+          "_id": {
+            "in_patient": 1,
+            "reception_queue_id": "20130200171458860"
+          },
+          "datas": [
+            {
+              "_id": {
+                "current_day_time": 1607965201,
+                "in_patient": 1,
+                "reception_queue_id": "20130200171458860"
+              },
+              "datas": [
+                {
+                  "_id": {
+                    "current_day_time": 1607965201,
+                    "in_patient": 1,
+                    "reception_queue_id": "20130200171458860",
+                    "service_category_parent_id": 6,
+                    "service_category_parent_name": "Khám bệnh"
+                  },
+                  "datas": [
+                    {
+                      "_id": {
+                        "current_day_time": 1607965201,
+                        "in_patient": 1,
+                        "reception_queue_id": "20130200171458860",
+                        "service_category_id": 6,
+                        "service_category_name": "Khám bệnh",
+                        "service_category_parent_id": 6,
+                        "service_category_parent_name": "Khám bệnh"
+                      },
+                      "datas": [
+                        {
+                          "pharmas": [],
+                          "results": [
+                            {
+                              "detail": [
+                                {
+                                  "is_self": 0,
+                                  "is_synthetic": 0,
+                                  "number_afternoon": null,
+                                  "number_day": null,
+                                  "number_morning": 1,
+                                  "number_night": null,
+                                  "number_noon": null,
+                                  "pharma_category_id": 196,
+                                  "pharma_dosage": "75mg",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_id": 309,
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 1594,
+                                      "ingredient_name": "Diclofenac Na"
+                                    }
+                                  ],
+                                  "pharma_name": "Voltaren",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 1608,
+                                      "way_to_use_name": "Uống"
+                                    }
+                                  ],
+                                  "quantity": 1,
+                                  "supply_id": 1,
+                                  "unit_name": "Viên"
+                                }
+                              ],
+                              "examination_prescription_code": 2012150991,
+                              "examination_prescription_price": 0,
+                              "is_discharge": 0,
+                              "is_issue": 1,
+                              "operate_no": "PTTT12202011982",
+                              "phama_request_parent_in_arr": [
+                                {
+                                  "pharma_request_parent_in": "PL12202013887",
+                                  "pharma_request_parent_in_th": "LTH1220204509"
+                                }
+                              ],
+                              "pharma_category_id": 0,
+                              "pharma_request_parent_in": "PL12202013887",
+                              "pharmas_note": "",
+                              "pharmas_note_other": "",
+                              "supply_id": 1,
+                              "used_at": 1608002999,
+                              "used_at_action": 1608002984,
+                              "used_by": "chungntt",
+                              "user_full_name": "Nguyễn Thị Thành Chung",
+                              "user_id": 3801,
+                              "user_phone_number": "",
+                              "user_signature": "ITS. Chungntt",
+                              "user_signature_image": "/uploads/user/chungntt380101122018-signature.png",
+                              "warehouse_id": 393,
+                              "warehouse_name": "Kho It Tầng"
+                            }
+                          ],
+                          "service_code": "KNOI",
+                          "service_id": 7757,
+                          "service_name": "Khám nội"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_id": {
+            "in_patient": 1,
+            "reception_queue_id": "20130400171458860"
+          },
+          "datas": [
+            {
+              "_id": {
+                "current_day_time": 1608397201,
+                "in_patient": 1,
+                "reception_queue_id": "20130400171458860"
+              },
+              "datas": [
+                {
+                  "_id": {
+                    "current_day_time": 1608397201,
+                    "in_patient": 1,
+                    "reception_queue_id": "20130400171458860",
+                    "service_category_parent_id": 7,
+                    "service_category_parent_name": "Phẫu thuật"
+                  },
+                  "datas": [
+                    {
+                      "_id": {
+                        "current_day_time": 1608397201,
+                        "in_patient": 1,
+                        "reception_queue_id": "20130400171458860",
+                        "service_category_id": 7,
+                        "service_category_name": "Phẫu thuật",
+                        "service_category_parent_id": 7,
+                        "service_category_parent_name": "Phẫu thuật"
+                      },
+                      "datas": [
+                        {
+                          "pharmas": [],
+                          "results": {},
+                          "service_code": "PT",
+                          "service_id": 8693,
+                          "service_name": "Phẫu thuật TMH"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "_id": {
+                "current_day_time": 1609088401,
+                "in_patient": 1,
+                "reception_queue_id": "20130400171458860"
+              },
+              "datas": [
+                {
+                  "_id": {
+                    "current_day_time": 1609088401,
+                    "in_patient": 1,
+                    "reception_queue_id": "20130400171458860",
+                    "service_category_parent_id": 6,
+                    "service_category_parent_name": "Khám bệnh"
+                  },
+                  "datas": [
+                    {
+                      "_id": {
+                        "current_day_time": 1609088401,
+                        "in_patient": 1,
+                        "reception_queue_id": "20130400171458860",
+                        "service_category_id": 6,
+                        "service_category_name": "Khám bệnh",
+                        "service_category_parent_id": 6,
+                        "service_category_parent_name": "Khám bệnh"
+                      },
+                      "datas": [
+                        {
+                          "pharmas": [],
+                          "results": [
+                            {
+                              "detail": [
+                                {
+                                  "is_self": 0,
+                                  "is_synthetic": 0,
+                                  "number_afternoon": 1.5,
+                                  "number_day": null,
+                                  "number_morning": 2,
+                                  "number_night": 2,
+                                  "number_noon": 2,
+                                  "pharma_category_id": 192,
+                                  "pharma_dosage": "500mg",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_id": 212,
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 1512,
+                                      "ingredient_name": "Paracetamol"
+                                    }
+                                  ],
+                                  "pharma_name": "Panadol",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 1608,
+                                      "way_to_use_name": "Uống"
+                                    }
+                                  ],
+                                  "quantity": 7.5,
+                                  "supply_id": 1,
+                                  "unit_name": "Viên",
+                                  "way_to_use_name": "Uống",
+                                  "way_to_use_selected": {
+                                    "way_to_use_id": 1608,
+                                    "way_to_use_name": "Uống"
+                                  }
+                                }
+                              ],
+                              "examination_prescription_code": 2012281781,
+                              "examination_prescription_price": 0,
+                              "is_discharge": 0,
+                              "is_issue": 1,
+                              "operate_no": "PTTT12202022530",
+                              "pharma_category_id": 0,
+                              "pharmas_note": "",
+                              "pharmas_note_other": "",
+                              "supply_id": 1,
+                              "used_at": 1609142378,
+                              "used_at_action": 1609142341,
+                              "used_by": "duongvd",
+                              "user_full_name": "Vũ Đại Dương",
+                              "user_id": 5176,
+                              "user_phone_number": "",
+                              "user_signature": "IT . Vũ Đại Dương",
+                              "warehouse_id": 393,
+                              "warehouse_name": "Kho It Tầng"
+                            }
+                          ],
+                          "service_code": "KNOI",
+                          "service_id": 7757,
+                          "service_name": "Khám nội"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "_id": {
+                "current_day_time": 1608570001,
+                "in_patient": 1,
+                "reception_queue_id": "20130400171458860"
+              },
+              "datas": [
+                {
+                  "_id": {
+                    "current_day_time": 1608570001,
+                    "in_patient": 1,
+                    "reception_queue_id": "20130400171458860",
+                    "service_category_parent_id": 6,
+                    "service_category_parent_name": "Khám bệnh"
+                  },
+                  "datas": [
+                    {
+                      "_id": {
+                        "current_day_time": 1608570001,
+                        "in_patient": 1,
+                        "reception_queue_id": "20130400171458860",
+                        "service_category_id": 6,
+                        "service_category_name": "Khám bệnh",
+                        "service_category_parent_id": 6,
+                        "service_category_parent_name": "Khám bệnh"
+                      },
+                      "datas": [
+                        {
+                          "pharmas": [],
+                          "results": [
+                            {
+                              "detail": [
+                                {
+                                  "examination_prescription_code": 2012221667,
+                                  "is_self": 0,
+                                  "is_synthetic": 0,
+                                  "note": "sau ăn 30 phút",
+                                  "number_afternoon": 1,
+                                  "number_day": null,
+                                  "number_morning": 1,
+                                  "number_night": null,
+                                  "number_noon": null,
+                                  "pharma_category_id": 196,
+                                  "pharma_dosage": "21 microkatal",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_id": 324,
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 1610,
+                                      "ingredient_name": "Alphachymotrypsin"
+                                    }
+                                  ],
+                                  "pharma_name": "Alphachymotrypsin Choay",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 1608,
+                                      "way_to_use_name": "Uống"
+                                    },
+                                    {
+                                      "way_to_use_id": 1611,
+                                      "way_to_use_name": "Uống sau ăn"
+                                    },
+                                    {
+                                      "way_to_use_id": 1586,
+                                      "way_to_use_name": "Ngậm"
+                                    }
+                                  ],
+                                  "quantity": 2,
+                                  "supply_id": 1,
+                                  "unit_name": "Viên",
+                                  "way_to_use_name": "Uống sau ăn",
+                                  "way_to_use_selected": {
+                                    "way_to_use_id": 1611,
+                                    "way_to_use_name": "Uống sau ăn"
+                                  }
+                                },
+                                {
+                                  "examination_prescription_code": 2012221667,
+                                  "ingredient": {
+                                    "active": 1,
+                                    "ingredient_category_code": "N02B",
+                                    "ingredient_category_id": 995,
+                                    "ingredient_category_level": 3,
+                                    "ingredient_category_name": "Thuốc giảm đau và hạ sốt khác",
+                                    "ingredient_category_parent": 983,
+                                    "ingredient_code": "par",
+                                    "ingredient_id": 1512,
+                                    "ingredient_name": "Paracetamol",
+                                    "ingredient_name_en": "Paracetamol",
+                                    "is_del": 0
+                                  },
+                                  "is_self": 0,
+                                  "is_synthetic": 0,
+                                  "number_afternoon": null,
+                                  "number_day": null,
+                                  "number_morning": 3,
+                                  "number_night": null,
+                                  "number_noon": null,
+                                  "pharma_category_id": 192,
+                                  "pharma_dosage": "250mg",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_id": 225,
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 1512,
+                                      "ingredient_name": "Paracetamol"
+                                    }
+                                  ],
+                                  "pharma_name": "Efferalgan",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 913,
+                                      "way_to_use_name": "Uống"
+                                    }
+                                  ],
+                                  "quantity": 3,
+                                  "supply_id": 1,
+                                  "unit_name": "Gói",
+                                  "way_to_use_name": "Uống",
+                                  "way_to_use_selected": {
+                                    "way_to_use_id": 913,
+                                    "way_to_use_name": "Uống"
+                                  }
+                                },
+                                {
+                                  "examination_prescription_code": 2012221667,
+                                  "ingredient": {
+                                    "active": 1,
+                                    "ingredient_category_code": "R",
+                                    "ingredient_category_id": 1131,
+                                    "ingredient_category_level": 1,
+                                    "ingredient_category_name": "HỆ HÔ HẤP",
+                                    "ingredient_category_parent": null,
+                                    "ingredient_code": "Ace",
+                                    "ingredient_id": 1408,
+                                    "ingredient_name": "Acetylcysteine",
+                                    "ingredient_name_en": "Acetylcysteine",
+                                    "is_del": 0
+                                  },
+                                  "is_self": 0,
+                                  "is_synthetic": 0,
+                                  "number_afternoon": null,
+                                  "number_day": null,
+                                  "number_morning": 4,
+                                  "number_night": null,
+                                  "number_noon": null,
+                                  "pharma_category_id": 199,
+                                  "pharma_dosage": "100mg",
+                                  "pharma_dosage_detail": "",
+                                  "pharma_id": 6,
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 1408,
+                                      "ingredient_name": "Acetylcysteine"
+                                    }
+                                  ],
+                                  "pharma_name": "Acemuc",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 913,
+                                      "way_to_use_name": "Uống"
+                                    }
+                                  ],
+                                  "quantity": 4,
+                                  "supply_id": 1,
+                                  "unit_name": "Gói",
+                                  "way_to_use_name": "Uống",
+                                  "way_to_use_selected": {
+                                    "way_to_use_id": 913,
+                                    "way_to_use_name": "Uống"
+                                  }
+                                }
+                              ],
+                              "examination_prescription_code": 2012221667,
+                              "examination_prescription_price": 0,
+                              "is_discharge": 0,
+                              "is_issue": 1,
+                              "pharma_category_id": 0,
+                              "pharmas_note": "",
+                              "pharmas_note_other": "",
+                              "supply_id": 1,
+                              "used_at": 1608714109,
+                              "used_at_action": 1608625782,
+                              "used_by": "chungntt",
+                              "user_full_name": "Nguyễn Thị Thành Chung",
+                              "user_id": 3801,
+                              "user_phone_number": "",
+                              "user_signature": "ITS. Chungntt",
+                              "user_signature_image": "/uploads/user/chungntt380101122018-signature.png",
+                              "warehouse_id": 393,
+                              "warehouse_name": "Kho It Tầng"
+                            },
+                            {
+                              "detail": [
+                                {
+                                  "ingredient": {
+                                    "active": 1,
+                                    "ingredient_category_code": "N02B",
+                                    "ingredient_category_id": 995,
+                                    "ingredient_category_level": 3,
+                                    "ingredient_category_name": "Thuốc giảm đau và hạ sốt khác",
+                                    "ingredient_category_parent": 983,
+                                    "ingredient_code": "par",
+                                    "ingredient_id": 1512,
+                                    "ingredient_name": "Paracetamol",
+                                    "ingredient_name_en": "Paracetamol",
+                                    "is_del": 0
+                                  },
+                                  "is_self": 0,
+                                  "is_synthetic": 0,
+                                  "number_afternoon": 1,
+                                  "number_day": null,
+                                  "number_morning": 1,
+                                  "number_night": 1,
+                                  "number_noon": 1,
+                                  "pharma_category_id": 192,
+                                  "pharma_dosage": "250mg",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_id": 225,
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 1512,
+                                      "ingredient_name": "Paracetamol"
+                                    }
+                                  ],
+                                  "pharma_name": "Efferalgan",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 913,
+                                      "way_to_use_name": "Uống"
+                                    }
+                                  ],
+                                  "quantity": 4,
+                                  "supply_id": 1,
+                                  "unit_name": "Gói",
+                                  "way_to_use_name": "Uống",
+                                  "way_to_use_selected": {
+                                    "way_to_use_id": 913,
+                                    "way_to_use_name": "Uống"
+                                  }
+                                },
+                                {
+                                  "ingredient": {
+                                    "active": 1,
+                                    "ingredient_category_code": "R",
+                                    "ingredient_category_id": 1131,
+                                    "ingredient_category_level": 1,
+                                    "ingredient_category_name": "HỆ HÔ HẤP",
+                                    "ingredient_category_parent": null,
+                                    "ingredient_code": "Ace",
+                                    "ingredient_id": 1408,
+                                    "ingredient_name": "Acetylcysteine",
+                                    "ingredient_name_en": "Acetylcysteine",
+                                    "is_del": 0
+                                  },
+                                  "is_self": 0,
+                                  "is_synthetic": 0,
+                                  "number_afternoon": 6,
+                                  "number_day": null,
+                                  "number_morning": 6,
+                                  "number_night": 6,
+                                  "number_noon": 6,
+                                  "pharma_category_id": 199,
+                                  "pharma_dosage": "100mg",
+                                  "pharma_dosage_detail": "",
+                                  "pharma_id": 6,
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 1408,
+                                      "ingredient_name": "Acetylcysteine"
+                                    }
+                                  ],
+                                  "pharma_name": "Acemuc",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 913,
+                                      "way_to_use_name": "Uống"
+                                    }
+                                  ],
+                                  "quantity": 24,
+                                  "supply_id": 1,
+                                  "unit_name": "Gói",
+                                  "way_to_use_name": "Uống",
+                                  "way_to_use_selected": {
+                                    "way_to_use_id": 913,
+                                    "way_to_use_name": "Uống"
+                                  }
+                                }
+                              ],
+                              "examination_prescription_code": 2012222262,
+                              "examination_prescription_price": 0,
+                              "is_discharge": 0,
+                              "is_issue": 1,
+                              "pharma_category_id": 0,
+                              "pharmas_note": "",
+                              "pharmas_note_other": "",
+                              "supply_id": 1,
+                              "used_at": 1608949736,
+                              "used_at_action": 1608604081,
+                              "used_by": "duongvd",
+                              "user_full_name": "Vũ Đại Dương",
+                              "user_id": 5176,
+                              "user_phone_number": "",
+                              "user_signature": "IT . Vũ Đại Dương",
+                              "warehouse_id": 393,
+                              "warehouse_name": "Kho It Tầng"
+                            }
+                          ],
+                          "service_code": "KNOI",
+                          "service_id": 7757,
+                          "service_name": "Khám nội"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "_id": {
+                "current_day_time": 1608656401,
+                "in_patient": 1,
+                "reception_queue_id": "20130400171458860"
+              },
+              "datas": [
+                {
+                  "_id": {
+                    "current_day_time": 1608656401,
+                    "in_patient": 1,
+                    "reception_queue_id": "20130400171458860",
+                    "service_category_parent_id": 6,
+                    "service_category_parent_name": "Khám bệnh"
+                  },
+                  "datas": [
+                    {
+                      "_id": {
+                        "current_day_time": 1608656401,
+                        "in_patient": 1,
+                        "reception_queue_id": "20130400171458860",
+                        "service_category_id": 6,
+                        "service_category_name": "Khám bệnh",
+                        "service_category_parent_id": 6,
+                        "service_category_parent_name": "Khám bệnh"
+                      },
+                      "datas": [
+                        {
+                          "pharmas": [
+                            {
+                              "advice": "",
+                              "created_at": 1608716488,
+                              "created_by": "chungntt",
+                              "created_by_fullname": "Nguyễn Thị Thành Chung",
+                              "detail": [
+                                {
+                                  "active": 1,
+                                  "country_id": null,
+                                  "deactive_branch": null,
+                                  "ingredient_id": null,
+                                  "ingredient_name": null,
+                                  "is_del": 0,
+                                  "last_qtt": 1,
+                                  "manage_expire_date": 0,
+                                  "manufacturer_id": null,
+                                  "note": "Pha 1 gói với 1 lít nước đun sôi để nguội uống theo nhu cầu",
+                                  "number_afternoon": 0,
+                                  "number_morning": 0,
+                                  "number_night": 0,
+                                  "number_noon": 0,
+                                  "pharma_category_id": 208,
+                                  "pharma_code": "OT1",
+                                  "pharma_dosage": "8mg/2ml",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_health_insurance": 0,
+                                  "pharma_id": 13346,
+                                  "pharma_image": "https://his-filesvr.hongngochospital.vnassets/images/hongngoc.png",
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 1782,
+                                      "ingredient_name": "Ondansetron"
+                                    }
+                                  ],
+                                  "pharma_insurance": null,
+                                  "pharma_insurance_all": 0,
+                                  "pharma_interested": 0,
+                                  "pharma_is_insurance": 0,
+                                  "pharma_name": "Ondanov (osetron)",
+                                  "pharma_name_en": "Ondanov (osetron)",
+                                  "pharma_way_to_use": {
+                                    "_id": "1608",
+                                    "active": 1,
+                                    "way_to_use_code": "uon",
+                                    "way_to_use_id": 1608,
+                                    "way_to_use_name": "Uống",
+                                    "way_to_use_name_en": "Uống"
+                                  },
+                                  "price": 13000,
+                                  "price_old": 13000,
+                                  "quantity": 1,
+                                  "sum": "1",
+                                  "supply_id": 1,
+                                  "unit": {
+                                    "active": 1,
+                                    "is_basic": 1,
+                                    "unit_basic_exchange": 1,
+                                    "unit_basic_id": 0,
+                                    "unit_code": "VONG",
+                                    "unit_id": 870,
+                                    "unit_name": "Ống",
+                                    "unit_name_en": "Ống",
+                                    "unit_type_id": 2
+                                  },
+                                  "unit_exchange": 1,
+                                  "unit_id": 870,
+                                  "unit_standard_id": null,
+                                  "warehouse_id": [
+                                    118,
+                                    120,
+                                    147,
+                                    150,
+                                    153,
+                                    154,
+                                    155,
+                                    156,
+                                    195,
+                                    244,
+                                    246,
+                                    339,
+                                    376,
+                                    421,
+                                    476,
+                                    482
+                                  ]
+                                },
+                                {
+                                  "active": 1,
+                                  "country_id": 291,
+                                  "deactive_branch": null,
+                                  "ingredient": {
+                                    "active": 1,
+                                    "ingredient_category_code": "N02B",
+                                    "ingredient_category_id": 995,
+                                    "ingredient_category_level": 3,
+                                    "ingredient_category_name": "Thuốc giảm đau và hạ sốt khác",
+                                    "ingredient_category_parent": 983,
+                                    "ingredient_code": "par",
+                                    "ingredient_id": 1512,
+                                    "ingredient_name": "Paracetamol",
+                                    "ingredient_name_en": "Paracetamol",
+                                    "is_del": 0
+                                  },
+                                  "ingredient_id": 1512,
+                                  "ingredient_name": "Paracetamol",
+                                  "is_del": 0,
+                                  "last_qtt": 10,
+                                  "manage_expire_date": 0,
+                                  "manufacturer_id": 5804,
+                                  "note": "Uống 1 viên khi sốt &gt; 38.5 độ C, cách mỗi 4-6h",
+                                  "number_afternoon": 0,
+                                  "number_morning": 0,
+                                  "number_night": 0,
+                                  "number_noon": 0,
+                                  "pharma_category_id": 192,
+                                  "pharma_code": "EpT2",
+                                  "pharma_dosage": "500mg",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_health_insurance": 0,
+                                  "pharma_id": 229,
+                                  "pharma_image": "text",
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 1512,
+                                      "ingredient_name": "Paracetamol"
+                                    }
+                                  ],
+                                  "pharma_insurance": [],
+                                  "pharma_insurance_all": 1,
+                                  "pharma_interested": 0,
+                                  "pharma_is_insurance": 0,
+                                  "pharma_name": "Efferalgan",
+                                  "pharma_name_en": "Efferalgan",
+                                  "pharma_way_to_use": {
+                                    "_id": "1611",
+                                    "active": 1,
+                                    "way_to_use_code": "usa",
+                                    "way_to_use_id": 1611,
+                                    "way_to_use_name": "Uống sau ăn",
+                                    "way_to_use_name_en": "Uống sau ăn"
+                                  },
+                                  "price": 3000,
+                                  "price_old": 3000,
+                                  "quantity": 10,
+                                  "sum": "99938",
+                                  "supply_id": 1,
+                                  "unit": {
+                                    "active": 1,
+                                    "is_basic": 1,
+                                    "unit_basic_exchange": 1,
+                                    "unit_basic_id": 0,
+                                    "unit_code": "TVIEN",
+                                    "unit_id": 800,
+                                    "unit_name": "Viên",
+                                    "unit_name_en": "Viên",
+                                    "unit_type_id": 1
+                                  },
+                                  "unit_exchange": 16,
+                                  "unit_id": 800,
+                                  "unit_standard_id": 834,
+                                  "warehouse_id": [
+                                    118,
+                                    120,
+                                    124,
+                                    146,
+                                    150,
+                                    153,
+                                    154,
+                                    155,
+                                    156,
+                                    167,
+                                    169,
+                                    170,
+                                    171,
+                                    180,
+                                    195,
+                                    196,
+                                    227,
+                                    229,
+                                    239,
+                                    244,
+                                    246,
+                                    248,
+                                    252,
+                                    269,
+                                    311,
+                                    333,
+                                    335,
+                                    339,
+                                    348,
+                                    352,
+                                    374,
+                                    376,
+                                    387,
+                                    390,
+                                    393,
+                                    408,
+                                    412,
+                                    421,
+                                    433,
+                                    440,
+                                    445,
+                                    446,
+                                    447,
+                                    451,
+                                    452,
+                                    453,
+                                    456,
+                                    460,
+                                    466,
+                                    470,
+                                    476,
+                                    482,
+                                    "494"
+                                  ]
+                                }
+                              ],
+                              "examination_prescription_code": "2012231985",
+                              "user_signature": "ITS. Chungntt",
+                              "user_signature_image": "/uploads/user/chungntt380101122018-signature.png",
+                              "warehouse": {
+                                "active": 1,
+                                "company_id": 1,
+                                "is_del": 0,
+                                "room": {
+                                  "branch_id": 1572,
+                                  "company_id": 1,
+                                  "room_alias": "pkngoai1",
+                                  "room_id": "396",
+                                  "room_name": "P.215 - Khám ngoại",
+                                  "selected": 0
+                                },
+                                "room_id": "396",
+                                "warehouse_code": "kic",
+                                "warehouse_id": 339,
+                                "warehouse_name": "Kho IT Chính",
+                                "warehouse_type_id": 438
+                              }
+                            }
+                          ],
+                          "results": {
+                            "benh_su": "Bệnh nhân đang điều trị Rối loạn chuyển hóa lipid. Đái tháo đường typ 2. Viêm mũi họng - Hội chứng trào ngược. Gan nhiễm mỡ nhẹ. Nang thận trái. Loãng xương theo đươn ngoại trú từ 21.12.2020. Ngày 22.12.2020 bệnh nhân sau uống 2 viên NextGal buổi chiều đột ngột xuất hiện đau co thắt khối cơ vùng lưng và vùng bụng, đau từng cơn, hít thở đau, không sốt --&gt; khám",
+                            "bmi_char": "Normal Weight",
+                            "bmi_number": 23.83300460223537,
+                            "can_nang": 58,
+                            "chan_doan": "Sốt xuất huyết Dengue ngày thứ 4",
+                            "chan_doan_so_bo": "Đau bụng chưa rõ nguyên nhân/ Đái tháo đường - Rối loạn chuyển hóa lipid máu - Loãng xương",
+                            "chieu_cao": 156,
+                            "huyet_ap1": 160,
+                            "huyet_ap2": 90,
+                            "ket_qua_ksk": {
+                              "bmi_char": "Normal Weight",
+                              "bmi_number": 23.83300460223537,
+                              "can_nang": 58,
+                              "chieu_cao": 156,
+                              "huyet_ap": "160/90",
+                              "ket_qua_kham_cls": "",
+                              "mach": 102,
+                              "nhiet_do": 38,
+                              "nhip_tho": 18,
+                              "tien_su_benh": "- Tiền sử bản thân: Mổ cắt túi mật năm 1995. Đái tháo đường typ 2. Tăng men gan. Rối loạn chuyển hóa lipid. Không yếu tố dịch tễ Covid-19.  Gãy kín đầu dưới xương quay và mỏm trâm trụ tay phải từ 18/11/2020\n- Tiền sử gia đình:Bình thường"
+                            },
+                            "ly_do_vao_vien": "Đau bụng",
+                            "mach": 102,
+                            "nhiet_do": 38,
+                            "nhip_tho": 18,
+                            "service_category_id": 6,
+                            "service_category_name": "Khám bệnh",
+                            "tien_su_benh": "- Tiền sử bản thân: Mổ cắt túi mật năm 1995. Đái tháo đường typ 2. Tăng men gan. Rối loạn chuyển hóa lipid. Không yếu tố dịch tễ Covid-19.  Gãy kín đầu dưới xương quay và mỏm trâm trụ tay phải từ 18/11/2020\n- Tiền sử gia đình:Bình thường",
+                            "xet_bo_phan": "- Tim :  Nhịp đều, rõ. Tiếng T1, T2 bình thường.\n- Phổi : Rì rào phế nang 2 bên đều, rõ, không có rales\n- Bụng: Mềm, không chướng, gan - lách không sờ thấy, ấn thượng vị đau tức nhẹ, hố chậu 2 bên mềm\n- Dấu hiệu não, màng  não ( - ). Không có dấu hiệu thần kinh khu trú.\n- Tại chỗ: căng cứng nhẹ khối cơ vùng lưng ngang mức L1-L2",
+                            "xet_toan_than": "Bệnh nhân tỉnh, tiếp xúc tốt, không phù, da niêm mạc bình thường."
+                          },
+                          "service_code": "KNOI",
+                          "service_id": 7757,
+                          "service_name": "Khám nội"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "_id": {
+                "current_day_time": 1608915601,
+                "in_patient": 1,
+                "reception_queue_id": "20130400171458860"
+              },
+              "datas": [
+                {
+                  "_id": {
+                    "current_day_time": 1608915601,
+                    "in_patient": 1,
+                    "reception_queue_id": "20130400171458860",
+                    "service_category_parent_id": 6,
+                    "service_category_parent_name": "Khám bệnh"
+                  },
+                  "datas": [
+                    {
+                      "_id": {
+                        "current_day_time": 1608915601,
+                        "in_patient": 1,
+                        "reception_queue_id": "20130400171458860",
+                        "service_category_id": 6,
+                        "service_category_name": "Khám bệnh",
+                        "service_category_parent_id": 6,
+                        "service_category_parent_name": "Khám bệnh"
+                      },
+                      "datas": [
+                        {
+                          "pharmas": [],
+                          "results": [],
+                          "service_code": "KNOI",
+                          "service_id": 7757,
+                          "service_name": "Khám nội"
+                        },
+                        {
+                          "pharmas": [],
+                          "results": [
+                            {
+                              "detail": [
+                                {
+                                  "ingredient": {
+                                    "active": 1,
+                                    "ingredient_category_code": null,
+                                    "ingredient_category_id": null,
+                                    "ingredient_category_level": null,
+                                    "ingredient_category_name": null,
+                                    "ingredient_category_parent": null,
+                                    "ingredient_code": "AKT",
+                                    "ingredient_id": 2409,
+                                    "ingredient_name": "anaferon// kháng thể gắn với interfron gamma",
+                                    "ingredient_name_en": null,
+                                    "is_del": null
+                                  },
+                                  "is_self": 0,
+                                  "is_synthetic": 0,
+                                  "number_afternoon": null,
+                                  "number_day": null,
+                                  "number_morning": 1,
+                                  "number_night": null,
+                                  "number_noon": null,
+                                  "pharma_category_id": 185,
+                                  "pharma_dosage": "20 viên",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_id": 13300,
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 2409,
+                                      "ingredient_name": "anaferon// kháng thể gắn với interfron gamma"
+                                    }
+                                  ],
+                                  "pharma_name": "Anaferon",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 1608,
+                                      "way_to_use_name": "Uống"
+                                    }
+                                  ],
+                                  "quantity": 1,
+                                  "supply_id": 1,
+                                  "unit_name": "Hộp"
+                                }
+                              ],
+                              "examination_prescription_code": 2012262651,
+                              "examination_prescription_price": 0,
+                              "is_discharge": 0,
+                              "is_issue": 1,
+                              "operate_no": "PTTT12202021152",
+                              "pharma_category_id": 0,
+                              "pharmas_note": "",
+                              "pharmas_note_other": "",
+                              "supply_id": 1,
+                              "used_at": 1608981423,
+                              "used_at_action": 1608981476,
+                              "used_by": "chungntt",
+                              "user_full_name": "Nguyễn Thị Thành Chung",
+                              "user_id": 3801,
+                              "user_phone_number": "",
+                              "user_signature": "ITS. Chungntt",
+                              "user_signature_image": "/uploads/user/chungntt380101122018-signature.png",
+                              "warehouse_id": 393,
+                              "warehouse_name": "Kho It Tầng"
+                            }
+                          ],
+                          "service_code": "KNOI",
+                          "service_id": 7757,
+                          "service_name": "Khám nội"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "_id": {
+                "current_day_time": 1609002001,
+                "in_patient": 1,
+                "reception_queue_id": "20130400171458860"
+              },
+              "datas": [
+                {
+                  "_id": {
+                    "current_day_time": 1609002001,
+                    "in_patient": 1,
+                    "reception_queue_id": "20130400171458860",
+                    "service_category_parent_id": 6,
+                    "service_category_parent_name": "Khám bệnh"
+                  },
+                  "datas": [
+                    {
+                      "_id": {
+                        "current_day_time": 1609002001,
+                        "in_patient": 1,
+                        "reception_queue_id": "20130400171458860",
+                        "service_category_id": 6,
+                        "service_category_name": "Khám bệnh",
+                        "service_category_parent_id": 6,
+                        "service_category_parent_name": "Khám bệnh"
+                      },
+                      "datas": [
+                        {
+                          "pharmas": [],
+                          "results": [],
+                          "service_code": "KNOI",
+                          "service_id": 7757,
+                          "service_name": "Khám nội"
+                        },
+                        {
+                          "pharmas": [],
+                          "results": [
+                            {
+                              "detail": [
+                                {
+                                  "ingredient": {
+                                    "active": 1,
+                                    "ingredient_category_code": null,
+                                    "ingredient_category_id": null,
+                                    "ingredient_category_level": null,
+                                    "ingredient_category_name": null,
+                                    "ingredient_category_parent": null,
+                                    "ingredient_code": "ACA1",
+                                    "ingredient_id": 2369,
+                                    "ingredient_name": "Amoxicillin/ Clavulanic Acid",
+                                    "ingredient_name_en": "Amoxicillin/ Clavulanic Acid",
+                                    "is_del": 0
+                                  },
+                                  "is_self": 0,
+                                  "is_synthetic": 0,
+                                  "number_afternoon": 0.7,
+                                  "number_day": null,
+                                  "number_morning": 0.5,
+                                  "number_night": 0.3,
+                                  "number_noon": 0.5,
+                                  "pharma_category_id": 195,
+                                  "pharma_dosage": "500mg",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_id": 311,
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 1554,
+                                      "ingredient_name": "Amoxicillin"
+                                    },
+                                    {
+                                      "ingredient_id": 1520,
+                                      "ingredient_name": "Clavulanic acid"
+                                    }
+                                  ],
+                                  "pharma_name": "Augmentin",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 913,
+                                      "way_to_use_name": "Uống"
+                                    }
+                                  ],
+                                  "quantity": 2,
+                                  "supply_id": 1,
+                                  "unit_name": "Gói"
+                                }
+                              ],
+                              "examination_prescription_code": 2012270072,
+                              "examination_prescription_price": 0,
+                              "is_discharge": 0,
+                              "is_issue": 1,
+                              "operate_no": "PTTT12202020425",
+                              "pharma_category_id": 0,
+                              "pharmas_note": "",
+                              "pharmas_note_other": "",
+                              "supply_id": 1,
+                              "used_at": 1608953695,
+                              "used_at_action": 1609040068,
+                              "used_by": "trungnt",
+                              "user_full_name": "Ngô Thành Trung",
+                              "user_id": 5270,
+                              "user_phone_number": "",
+                              "user_signature": "Ngô Thành Trung (Test)",
+                              "warehouse_id": 393,
+                              "warehouse_name": "Kho It Tầng"
+                            },
+                            {
+                              "detail": [
+                                {
+                                  "ingredient": {
+                                    "active": 1,
+                                    "ingredient_category_code": null,
+                                    "ingredient_category_id": null,
+                                    "ingredient_category_level": null,
+                                    "ingredient_category_name": null,
+                                    "ingredient_category_parent": null,
+                                    "ingredient_code": "ACA1",
+                                    "ingredient_id": 2369,
+                                    "ingredient_name": "Amoxicillin/ Clavulanic Acid",
+                                    "ingredient_name_en": "Amoxicillin/ Clavulanic Acid",
+                                    "is_del": 0
+                                  },
+                                  "is_self": 0,
+                                  "is_synthetic": 0,
+                                  "note": "test",
+                                  "number_afternoon": 0.7,
+                                  "number_day": null,
+                                  "number_morning": 0.5,
+                                  "number_night": 0.3,
+                                  "number_noon": 0.5,
+                                  "pharma_category_id": 195,
+                                  "pharma_dosage": "500mg",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_id": 311,
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 1554,
+                                      "ingredient_name": "Amoxicillin"
+                                    },
+                                    {
+                                      "ingredient_id": 1520,
+                                      "ingredient_name": "Clavulanic acid"
+                                    }
+                                  ],
+                                  "pharma_name": "Augmentin",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 913,
+                                      "way_to_use_name": "Uống"
+                                    }
+                                  ],
+                                  "quantity": 2,
+                                  "supply_id": 1,
+                                  "unit_name": "Gói",
+                                  "way_to_use_name": "Uống",
+                                  "way_to_use_selected": {
+                                    "way_to_use_id": 913,
+                                    "way_to_use_name": "Uống"
+                                  }
+                                },
+                                {
+                                  "ingredient": {
+                                    "active": 1,
+                                    "ingredient_category_code": "N02B",
+                                    "ingredient_category_id": 995,
+                                    "ingredient_category_level": 3,
+                                    "ingredient_category_name": "Thuốc giảm đau và hạ sốt khác",
+                                    "ingredient_category_parent": 983,
+                                    "ingredient_code": "par",
+                                    "ingredient_id": 1512,
+                                    "ingredient_name": "Paracetamol",
+                                    "ingredient_name_en": "Paracetamol",
+                                    "is_del": 0
+                                  },
+                                  "is_self": 0,
+                                  "is_synthetic": 0,
+                                  "number_afternoon": 0.4,
+                                  "number_day": null,
+                                  "number_morning": 0.5,
+                                  "number_night": null,
+                                  "number_noon": null,
+                                  "pharma_category_id": 192,
+                                  "pharma_dosage": "80mg",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_id": 232,
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 1512,
+                                      "ingredient_name": "Paracetamol"
+                                    }
+                                  ],
+                                  "pharma_name": "Efferalgan",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 913,
+                                      "way_to_use_name": "Uống"
+                                    }
+                                  ],
+                                  "quantity": 0.9,
+                                  "supply_id": 1,
+                                  "unit_name": "Gói"
+                                }
+                              ],
+                              "examination_prescription_code": 2012270073,
+                              "examination_prescription_price": 0,
+                              "is_discharge": 0,
+                              "is_issue": 1,
+                              "pharma_category_id": 0,
+                              "pharmas_note": "",
+                              "pharmas_note_other": "",
+                              "supply_id": 1,
+                              "used_at": 1608953744,
+                              "used_at_action": 1609040041,
+                              "used_by": "trungnt",
+                              "user_full_name": "Ngô Thành Trung",
+                              "user_id": 5270,
+                              "user_phone_number": "",
+                              "user_signature": "Ngô Thành Trung (Test)",
+                              "warehouse_id": 393,
+                              "warehouse_name": "Kho It Tầng"
+                            }
+                          ],
+                          "service_code": "KNOI",
+                          "service_id": 7757,
+                          "service_name": "Khám nội"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "_id": {
+                "current_day_time": 1608742801,
+                "in_patient": 1,
+                "reception_queue_id": "20130400171458860"
+              },
+              "datas": [
+                {
+                  "_id": {
+                    "current_day_time": 1608742801,
+                    "in_patient": 1,
+                    "reception_queue_id": "20130400171458860",
+                    "service_category_parent_id": 6,
+                    "service_category_parent_name": "Khám bệnh"
+                  },
+                  "datas": [
+                    {
+                      "_id": {
+                        "current_day_time": 1608742801,
+                        "in_patient": 1,
+                        "reception_queue_id": "20130400171458860",
+                        "service_category_id": 6,
+                        "service_category_name": "Khám bệnh",
+                        "service_category_parent_id": 6,
+                        "service_category_parent_name": "Khám bệnh"
+                      },
+                      "datas": [
+                        {
+                          "pharmas": [],
+                          "results": [
+                            {
+                              "detail": [
+                                {
+                                  "is_self": 0,
+                                  "is_synthetic": 0,
+                                  "number_afternoon": null,
+                                  "number_day": null,
+                                  "number_morning": 1,
+                                  "number_night": null,
+                                  "number_noon": null,
+                                  "pharma_category_id": 196,
+                                  "pharma_dosage": "21 microkatal",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_id": 324,
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 1610,
+                                      "ingredient_name": "Alphachymotrypsin"
+                                    }
+                                  ],
+                                  "pharma_name": "Alphachymotrypsin Choay",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 1608,
+                                      "way_to_use_name": "Uống"
+                                    },
+                                    {
+                                      "way_to_use_id": 1611,
+                                      "way_to_use_name": "Uống sau ăn"
+                                    },
+                                    {
+                                      "way_to_use_id": 1586,
+                                      "way_to_use_name": "Ngậm"
+                                    }
+                                  ],
+                                  "quantity": 1,
+                                  "supply_id": 1,
+                                  "unit_name": "Viên"
+                                }
+                              ],
+                              "examination_prescription_code": 2012241703,
+                              "examination_prescription_price": 0,
+                              "is_discharge": 0,
+                              "is_issue": 1,
+                              "operate_no": "PTTT12202019103",
+                              "pharma_category_id": 0,
+                              "pharmas_note": "",
+                              "pharmas_note_other": "",
+                              "supply_id": 1,
+                              "used_at": 1608797812,
+                              "used_at_action": 1608797770,
+                              "used_by": "chungntt",
+                              "user_full_name": "Nguyễn Thị Thành Chung",
+                              "user_id": 3801,
+                              "user_phone_number": "",
+                              "user_signature": "ITS. Chungntt",
+                              "user_signature_image": "/uploads/user/chungntt380101122018-signature.png",
+                              "warehouse_id": 393,
+                              "warehouse_name": "Kho It Tầng"
+                            }
+                          ],
+                          "service_code": "KNOI",
+                          "service_id": 7757,
+                          "service_name": "Khám nội"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": {
+        "in_patient": 0
+      },
+      "datas": [
+        {
+          "_id": {
+            "in_patient": 0,
+            "reception_queue_id": "21010900171458860"
+          },
+          "datas": [
+            {
+              "_id": {
+                "current_day_time": 1610125201,
+                "in_patient": 0,
+                "reception_queue_id": "21010900171458860"
+              },
+              "datas": [
+                {
+                  "_id": {
+                    "current_day_time": 1610125201,
+                    "in_patient": 0,
+                    "reception_queue_id": "21010900171458860",
+                    "service_category_parent_id": 6,
+                    "service_category_parent_name": "Khám bệnh"
+                  },
+                  "datas": [
+                    {
+                      "_id": {
+                        "current_day_time": 1610125201,
+                        "in_patient": 0,
+                        "reception_queue_id": "21010900171458860",
+                        "service_category_id": 6,
+                        "service_category_name": "Khám bệnh",
+                        "service_category_parent_id": 6,
+                        "service_category_parent_name": "Khám bệnh"
+                      },
+                      "datas": [
+                        {
+                          "pharmas": [
+                            {
+                              "advice": "",
+                              "created_at": 1610166656,
+                              "created_by": "trungnt",
+                              "created_by_fullname": "Ngô Thành Trung",
+                              "detail": [
+                                {
+                                  "active": 1,
+                                  "country_id": null,
+                                  "deactive_branch": null,
+                                  "ingredient_id": null,
+                                  "ingredient_name": null,
+                                  "is_del": 0,
+                                  "last_qtt": 1,
+                                  "manage_expire_date": 0,
+                                  "manufacturer_id": null,
+                                  "number_afternoon": 0,
+                                  "number_morning": 0,
+                                  "number_night": 0,
+                                  "number_noon": 0,
+                                  "pharma_category_id": 211,
+                                  "pharma_code": "PreT4",
+                                  "pharma_dosage": "0,5ml",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_health_insurance": 0,
+                                  "pharma_id": 13430,
+                                  "pharma_image": null,
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 2426,
+                                      "ingredient_name": "Vaccin Viêm phổi , viêm MN , Viêm tai giữa do phế cầu"
+                                    }
+                                  ],
+                                  "pharma_insurance": null,
+                                  "pharma_insurance_all": 0,
+                                  "pharma_interested": 0,
+                                  "pharma_is_insurance": 0,
+                                  "pharma_name": "Prevenar",
+                                  "pharma_name_en": "Prevenar",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 1609,
+                                      "way_to_use_name": "Tiêm bắp"
+                                    }
+                                  ],
+                                  "price": 1390000,
+                                  "price_old": 1390000,
+                                  "quantity": 1,
+                                  "sum": "10",
+                                  "supply_id": 1,
+                                  "unit": {
+                                    "active": 1,
+                                    "is_basic": 1,
+                                    "unit_basic_exchange": 1,
+                                    "unit_basic_id": 0,
+                                    "unit_code": "TBOM",
+                                    "unit_id": 845,
+                                    "unit_name": "Bơm",
+                                    "unit_name_en": "Bơm",
+                                    "unit_type_id": 1
+                                  },
+                                  "unit_exchange": 1,
+                                  "unit_id": 845,
+                                  "unit_standard_id": null,
+                                  "warehouse_id": [
+                                    163,
+                                    188,
+                                    195,
+                                    246,
+                                    283,
+                                    311,
+                                    339,
+                                    437,
+                                    451,
+                                    452,
+                                    454,
+                                    "494",
+                                    512,
+                                    "404"
+                                  ]
+                                }
+                              ],
+                              "examination_prescription_code": "2101091145",
+                              "user_signature": "Ngô Thành Trung (Test)",
+                              "user_signature_image": null,
+                              "warehouse": {
+                                "active": 1,
+                                "company_id": 1,
+                                "is_del": 0,
+                                "room": {
+                                  "branch_id": 1593,
+                                  "company_id": 1,
+                                  "room_alias": "LB.PTC",
+                                  "room_id": "726",
+                                  "room_name": "LB - Phòng 320 - Phòng tư vấn tiêm chủng",
+                                  "selected": 0
+                                },
+                                "room_id": "726",
+                                "warehouse_code": "ki2",
+                                "warehouse_id": 404,
+                                "warehouse_name": "Kho IT2",
+                                "warehouse_type_id": 438
+                              }
+                            }
+                          ],
+                          "results": {
+                            "benh_su": "Bệnh sử (test)",
+                            "bmi_char": "",
+                            "bmi_number": 0,
+                            "chan_doan": "Chẩn đoán (test)",
+                            "chan_doan_so_bo": "Chẩn đoán sơ bộ (test)",
+                            "ket_qua_ksk": {
+                              "ket_qua_kham_cls": ""
+                            },
+                            "ly_do_vao_vien": "Lý do vào viện (test)",
+                            "name_print": "Tên Dv in PK (test)",
+                            "note": "Ghi chú (test)",
+                            "service_category_id": 6,
+                            "service_category_name": "Khám bệnh",
+                            "tien_su_benh": "- Tiền sử bản thân: \n- Tiền sử gia đình:",
+                            "xet_bo_phan": "K.xét bộ phân (test)",
+                            "xet_toan_than": "K.xét toàn thân (test)"
+                          },
+                          "service_code": "TIEMSYNF",
+                          "service_id": 88890010,
+                          "service_name": "Tiêm Synflorix"
+                        },
+                        {
+                          "pharmas": [
+                            {
+                              "advice": "",
+                              "created_at": 1610177804,
+                              "created_by": "trungnt",
+                              "created_by_fullname": "Ngô Thành Trung",
+                              "detail": [
+                                {
+                                  "active": 1,
+                                  "country_id": null,
+                                  "deactive_branch": null,
+                                  "ingredient": {
+                                    "active": 1,
+                                    "ingredient_category_code": "L01BC",
+                                    "ingredient_category_id": 848,
+                                    "ingredient_category_level": 4,
+                                    "ingredient_category_name": "Các chất tương tự pyrimidin",
+                                    "ingredient_category_parent": 843,
+                                    "ingredient_code": "L01BC02",
+                                    "ingredient_id": 850,
+                                    "ingredient_name": "Fluorouracil",
+                                    "ingredient_name_en": "Fluorouracil",
+                                    "is_del": 0
+                                  },
+                                  "ingredient_id": 850,
+                                  "ingredient_name": "Fluorouracil",
+                                  "is_del": 0,
+                                  "last_qtt": 1,
+                                  "manage_expire_date": 0,
+                                  "manufacturer_id": null,
+                                  "number_afternoon": 0,
+                                  "number_morning": 0,
+                                  "number_night": 0,
+                                  "number_noon": 0,
+                                  "pharma_category_id": 155,
+                                  "pharma_code": "5 FT1",
+                                  "pharma_dosage": "500mg/10ml",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_health_insurance": 0,
+                                  "pharma_id": 2873,
+                                  "pharma_image": "https://his-filesvr.hongngochospital.vnassets/images/hongngoc.png",
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 850,
+                                      "ingredient_name": "Fluorouracil"
+                                    }
+                                  ],
+                                  "pharma_insurance": null,
+                                  "pharma_insurance_all": 0,
+                                  "pharma_interested": 0,
+                                  "pharma_is_insurance": 0,
+                                  "pharma_name": "5 FU",
+                                  "pharma_name_en": "5 FU",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 0,
+                                      "way_to_use_name": "Pha truyền tĩnh mạch"
+                                    }
+                                  ],
+                                  "price": 147000,
+                                  "price_old": 147000,
+                                  "quantity": 1,
+                                  "sum": "99952",
+                                  "supply_id": 1,
+                                  "unit": {
+                                    "active": 1,
+                                    "is_basic": 1,
+                                    "unit_basic_exchange": 1,
+                                    "unit_basic_id": 0,
+                                    "unit_code": "TLO",
+                                    "unit_id": 799,
+                                    "unit_name": "Lọ",
+                                    "unit_name_en": "Lọ",
+                                    "unit_type_id": 1
+                                  },
+                                  "unit_exchange": 1,
+                                  "unit_id": 799,
+                                  "unit_standard_id": null,
+                                  "warehouse_id": [
+                                    154,
+                                    246,
+                                    339,
+                                    393
+                                  ]
+                                },
+                                {
+                                  "active": 1,
+                                  "country_id": 291,
+                                  "deactive_branch": null,
+                                  "ingredient_id": null,
+                                  "ingredient_name": null,
+                                  "is_del": 0,
+                                  "last_qtt": 1,
+                                  "manage_expire_date": 0,
+                                  "manufacturer_id": 5835,
+                                  "number_afternoon": 0,
+                                  "number_morning": 0,
+                                  "number_night": 0,
+                                  "number_noon": 0,
+                                  "pharma_category_id": 195,
+                                  "pharma_code": "doxT",
+                                  "pharma_dosage": "100mg",
+                                  "pharma_dosage_detail": "",
+                                  "pharma_health_insurance": 0,
+                                  "pharma_id": 795,
+                                  "pharma_image": "text",
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 1609,
+                                      "ingredient_name": "Doxycycline"
+                                    }
+                                  ],
+                                  "pharma_insurance": [],
+                                  "pharma_insurance_all": 0,
+                                  "pharma_interested": 0,
+                                  "pharma_is_insurance": 0,
+                                  "pharma_name": "Doxycycllin",
+                                  "pharma_name_en": "Doxycycllin",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 913,
+                                      "way_to_use_name": "Uống"
+                                    }
+                                  ],
+                                  "price": 700,
+                                  "price_old": 700,
+                                  "quantity": 1,
+                                  "sum": "100000",
+                                  "supply_id": 1,
+                                  "unit": {
+                                    "active": 1,
+                                    "is_basic": 1,
+                                    "unit_basic_exchange": 1,
+                                    "unit_basic_id": 0,
+                                    "unit_code": "TVIEN",
+                                    "unit_id": 800,
+                                    "unit_name": "Viên",
+                                    "unit_name_en": "Viên",
+                                    "unit_type_id": 1
+                                  },
+                                  "unit_exchange": 20,
+                                  "unit_id": 800,
+                                  "unit_standard_id": 834,
+                                  "warehouse_id": [
+                                    118,
+                                    120,
+                                    150,
+                                    153,
+                                    154,
+                                    155,
+                                    156,
+                                    170,
+                                    195,
+                                    246,
+                                    311,
+                                    339,
+                                    376,
+                                    390,
+                                    421,
+                                    433,
+                                    451,
+                                    452,
+                                    476,
+                                    "494"
+                                  ]
+                                }
+                              ],
+                              "examination_prescription_code": "2101091536",
+                              "user_signature": "Ngô Thành Trung (Test)",
+                              "user_signature_image": null,
+                              "warehouse": {
+                                "active": 1,
+                                "company_id": 1,
+                                "is_del": 0,
+                                "room": {
+                                  "branch_id": 1572,
+                                  "company_id": 1,
+                                  "room_alias": "PKNOI5",
+                                  "room_id": "404",
+                                  "room_name": "P.211 - Khám Nội",
+                                  "selected": 0
+                                },
+                                "room_id": "404",
+                                "warehouse_code": "kic",
+                                "warehouse_id": 339,
+                                "warehouse_name": "Kho IT Chính",
+                                "warehouse_type_id": 438
+                              }
+                            },
+                            {
+                              "advice": "",
+                              "created_at": 1610180864,
+                              "created_by": "trungnt",
+                              "created_by_fullname": "Ngô Thành Trung",
+                              "detail": [
+                                {
+                                  "active": 1,
+                                  "country_id": 291,
+                                  "deactive_branch": null,
+                                  "ingredient_id": null,
+                                  "ingredient_name": null,
+                                  "is_del": 0,
+                                  "last_qtt": 1,
+                                  "manage_expire_date": 0,
+                                  "manufacturer_id": 5805,
+                                  "number_afternoon": 0,
+                                  "number_morning": 0,
+                                  "number_night": 0,
+                                  "number_noon": 0,
+                                  "pharma_category_id": 192,
+                                  "pharma_code": "PanT1",
+                                  "pharma_dosage": "500mg",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_health_insurance": 0,
+                                  "pharma_id": 212,
+                                  "pharma_image": "text",
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 1512,
+                                      "ingredient_name": "Paracetamol"
+                                    }
+                                  ],
+                                  "pharma_insurance": [],
+                                  "pharma_insurance_all": 0,
+                                  "pharma_interested": 0,
+                                  "pharma_is_insurance": 0,
+                                  "pharma_name": "Panadol",
+                                  "pharma_name_en": "Panadol",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 1608,
+                                      "way_to_use_name": "Uống"
+                                    }
+                                  ],
+                                  "price": 1100,
+                                  "price_old": 1100,
+                                  "quantity": 1,
+                                  "sum": "109891",
+                                  "supply_id": 1,
+                                  "unit": {
+                                    "active": 1,
+                                    "is_basic": 1,
+                                    "unit_basic_exchange": 1,
+                                    "unit_basic_id": 0,
+                                    "unit_code": "TVIEN",
+                                    "unit_id": 800,
+                                    "unit_name": "Viên",
+                                    "unit_name_en": "Viên",
+                                    "unit_type_id": 1
+                                  },
+                                  "unit_exchange": 10,
+                                  "unit_id": 800,
+                                  "unit_standard_id": 813,
+                                  "warehouse_id": [
+                                    118,
+                                    120,
+                                    150,
+                                    153,
+                                    154,
+                                    155,
+                                    156,
+                                    170,
+                                    171,
+                                    195,
+                                    246,
+                                    311,
+                                    339,
+                                    374,
+                                    376,
+                                    393,
+                                    421,
+                                    433,
+                                    446,
+                                    451,
+                                    452,
+                                    476,
+                                    "494"
+                                  ]
+                                },
+                                {
+                                  "active": 1,
+                                  "country_id": 291,
+                                  "deactive_branch": null,
+                                  "ingredient": {
+                                    "active": 1,
+                                    "ingredient_category_code": "N02B",
+                                    "ingredient_category_id": 995,
+                                    "ingredient_category_level": 3,
+                                    "ingredient_category_name": "Thuốc giảm đau và hạ sốt khác",
+                                    "ingredient_category_parent": 983,
+                                    "ingredient_code": "par",
+                                    "ingredient_id": 1512,
+                                    "ingredient_name": "Paracetamol",
+                                    "ingredient_name_en": "Paracetamol",
+                                    "is_del": 0
+                                  },
+                                  "ingredient_id": 1512,
+                                  "ingredient_name": "Paracetamol",
+                                  "is_del": 0,
+                                  "last_qtt": 1,
+                                  "manage_expire_date": 0,
+                                  "manufacturer_id": 5804,
+                                  "number_afternoon": 0,
+                                  "number_morning": 0,
+                                  "number_night": 0,
+                                  "number_noon": 0,
+                                  "pharma_category_id": 192,
+                                  "pharma_code": "EpT3",
+                                  "pharma_dosage": "80mg",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_health_insurance": 0,
+                                  "pharma_id": 232,
+                                  "pharma_image": "text",
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 1512,
+                                      "ingredient_name": "Paracetamol"
+                                    }
+                                  ],
+                                  "pharma_insurance": null,
+                                  "pharma_insurance_all": 1,
+                                  "pharma_interested": 0,
+                                  "pharma_is_insurance": 0,
+                                  "pharma_name": "Efferalgan",
+                                  "pharma_name_en": "Efferalgan",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 913,
+                                      "way_to_use_name": "Uống"
+                                    }
+                                  ],
+                                  "price": 3000,
+                                  "price_old": 3000,
+                                  "quantity": 1,
+                                  "sum": "109858",
+                                  "supply_id": 1,
+                                  "unit": {
+                                    "active": 1,
+                                    "is_basic": 1,
+                                    "unit_basic_exchange": 1,
+                                    "unit_basic_id": 0,
+                                    "unit_code": "TGOI",
+                                    "unit_id": 811,
+                                    "unit_name": "Gói",
+                                    "unit_name_en": "Gói",
+                                    "unit_type_id": 1
+                                  },
+                                  "unit_exchange": 12,
+                                  "unit_id": 811,
+                                  "unit_standard_id": 834,
+                                  "warehouse_id": [
+                                    118,
+                                    120,
+                                    150,
+                                    153,
+                                    154,
+                                    155,
+                                    170,
+                                    195,
+                                    196,
+                                    246,
+                                    311,
+                                    333,
+                                    335,
+                                    339,
+                                    352,
+                                    374,
+                                    393,
+                                    408,
+                                    421,
+                                    433,
+                                    440,
+                                    451,
+                                    452,
+                                    466,
+                                    "494",
+                                    514
+                                  ]
+                                }
+                              ],
+                              "examination_prescription_code": "2101091656",
+                              "user_signature": "Ngô Thành Trung (Test)",
+                              "user_signature_image": null,
+                              "warehouse": {
+                                "active": 1,
+                                "company_id": 1,
+                                "is_del": 0,
+                                "room": {
+                                  "branch_id": 1572,
+                                  "company_id": 1,
+                                  "room_alias": "PKNOI5",
+                                  "room_id": "404",
+                                  "room_name": "P.211 - Khám Nội",
+                                  "selected": 0
+                                },
+                                "room_id": "404",
+                                "warehouse_code": "kic",
+                                "warehouse_id": 339,
+                                "warehouse_name": "Kho IT Chính",
+                                "warehouse_type_id": 438
+                              }
+                            }
+                          ],
+                          "results": {
+                            "benh_su": "Bệnh sử (test)",
+                            "bmi_char": "",
+                            "bmi_number": 0,
+                            "chan_doan": "Chẩn đoán (test)",
+                            "chan_doan_so_bo": "Chẩn đoán sơ bộ (test)",
+                            "ket_qua_ksk": {
+                              "bmi_char": "",
+                              "bmi_number": 0,
+                              "huyet_ap": "....../.........",
+                              "ket_qua_kham_cls": "",
+                              "tien_su_benh": "Tiền sử bệnh (test)"
+                            },
+                            "ly_do_vao_vien": "Lý do vào viện (test)",
+                            "name_print": "Tên Dv in PK (test)",
+                            "note": "Ghi chú (test)",
+                            "service_category_id": 6,
+                            "service_category_name": "Khám bệnh",
+                            "tien_su_benh": "Tiền sử bệnh (test)",
+                            "xet_bo_phan": "K.xét bộ phân (test)",
+                            "xet_toan_than": "K.xét toàn thân (test)"
+                          },
+                          "service_code": "KNOI",
+                          "service_id": 7757,
+                          "service_name": "Khám nội"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_id": {
+            "in_patient": 0,
+            "reception_queue_id": "21010800171458860"
+          },
+          "datas": [
+            {
+              "_id": {
+                "current_day_time": 1610125201,
+                "in_patient": 0,
+                "reception_queue_id": "21010800171458860"
+              },
+              "datas": [
+                {
+                  "_id": {
+                    "current_day_time": 1610125201,
+                    "in_patient": 0,
+                    "reception_queue_id": "21010800171458860",
+                    "service_category_parent_id": 6,
+                    "service_category_parent_name": "Khám bệnh"
+                  },
+                  "datas": [
+                    {
+                      "_id": {
+                        "current_day_time": 1610125201,
+                        "in_patient": 0,
+                        "reception_queue_id": "21010800171458860",
+                        "service_category_id": 6,
+                        "service_category_name": "Khám bệnh",
+                        "service_category_parent_id": 6,
+                        "service_category_parent_name": "Khám bệnh"
+                      },
+                      "datas": [
+                        {
+                          "pharmas": [
+                            {
+                              "advice": "",
+                              "created_at": 1610188096,
+                              "created_by": "thobv",
+                              "created_by_fullname": "Bùi Văn Thọ",
+                              "detail": [
+                                {
+                                  "active": 1,
+                                  "country_id": null,
+                                  "deactive_branch": null,
+                                  "ingredient_id": null,
+                                  "ingredient_name": null,
+                                  "is_del": 0,
+                                  "last_qtt": 1,
+                                  "manage_expire_date": 0,
+                                  "manufacturer_id": null,
+                                  "number_afternoon": 0,
+                                  "number_day": 1,
+                                  "number_morning": 0,
+                                  "number_night": 0,
+                                  "number_noon": 0,
+                                  "pharma_category_id": 211,
+                                  "pharma_code": "PreT4",
+                                  "pharma_dosage": "0,5ml",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_health_insurance": 0,
+                                  "pharma_id": 13430,
+                                  "pharma_image": null,
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 2426,
+                                      "ingredient_name": "Vaccin Viêm phổi , viêm MN , Viêm tai giữa do phế cầu"
+                                    }
+                                  ],
+                                  "pharma_insurance": null,
+                                  "pharma_insurance_all": 0,
+                                  "pharma_interested": 0,
+                                  "pharma_is_insurance": 0,
+                                  "pharma_name": "Prevenar",
+                                  "pharma_name_en": "Prevenar",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 1609,
+                                      "way_to_use_name": "Tiêm bắp"
+                                    }
+                                  ],
+                                  "price": 1390000,
+                                  "price_old": 1390000,
+                                  "quantity": 1,
+                                  "sum": "9",
+                                  "supply_id": 1,
+                                  "unit": {
+                                    "active": 1,
+                                    "is_basic": 1,
+                                    "unit_basic_exchange": 1,
+                                    "unit_basic_id": 0,
+                                    "unit_code": "TBOM",
+                                    "unit_id": 845,
+                                    "unit_name": "Bơm",
+                                    "unit_name_en": "Bơm",
+                                    "unit_type_id": 1
+                                  },
+                                  "unit_exchange": 1,
+                                  "unit_id": 845,
+                                  "unit_standard_id": null,
+                                  "warehouse_id": [
+                                    163,
+                                    188,
+                                    195,
+                                    246,
+                                    283,
+                                    311,
+                                    339,
+                                    437,
+                                    451,
+                                    452,
+                                    454,
+                                    "494",
+                                    512,
+                                    "404"
+                                  ]
+                                }
+                              ],
+                              "examination_prescription_code": "2101092058",
+                              "user_signature": "",
+                              "user_signature_image": null,
+                              "warehouse": {
+                                "active": 1,
+                                "company_id": 1,
+                                "is_del": 0,
+                                "room": {
+                                  "branch_id": 1593,
+                                  "company_id": 1,
+                                  "room_alias": "LB.PTC",
+                                  "room_id": "726",
+                                  "room_name": "LB - Phòng 320 - Phòng tư vấn tiêm chủng",
+                                  "selected": 0
+                                },
+                                "room_id": "726",
+                                "warehouse_code": "ki2",
+                                "warehouse_id": 404,
+                                "warehouse_name": "Kho IT2",
+                                "warehouse_type_id": 438
+                              }
+                            }
+                          ],
+                          "results": {
+                            "bmi_char": "Obese",
+                            "bmi_number": 81.30081300813009,
+                            "can_nang": 123,
+                            "chieu_cao": 123,
+                            "huyet_ap1": 123,
+                            "huyet_ap2": 123,
+                            "ket_qua_ksk": {
+                              "ket_qua_kham_cls": ""
+                            },
+                            "mach": 123,
+                            "nhiet_do": 123,
+                            "nhip_tho": 123,
+                            "service_category_id": 6,
+                            "service_category_name": "Khám bệnh",
+                            "tien_su_benh": "- Tiền sử bản thân: \n- Tiền sử gia đình:"
+                          },
+                          "service_code": "TIEMHAVAX",
+                          "service_id": 88890044,
+                          "service_name": "Tiêm Havax"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_id": {
+            "in_patient": 0,
+            "reception_queue_id": "20122300171458860"
+          },
+          "datas": [
+            {
+              "_id": {
+                "current_day_time": 1608656401,
+                "in_patient": 0,
+                "reception_queue_id": "20122300171458860"
+              },
+              "datas": [
+                {
+                  "_id": {
+                    "current_day_time": 1608656401,
+                    "in_patient": 0,
+                    "reception_queue_id": "20122300171458860",
+                    "service_category_parent_id": 6,
+                    "service_category_parent_name": "Khám bệnh"
+                  },
+                  "datas": [
+                    {
+                      "_id": {
+                        "current_day_time": 1608656401,
+                        "in_patient": 0,
+                        "reception_queue_id": "20122300171458860",
+                        "service_category_id": 6,
+                        "service_category_name": "Khám bệnh",
+                        "service_category_parent_id": 6,
+                        "service_category_parent_name": "Khám bệnh"
+                      },
+                      "datas": [
+                        {
+                          "pharmas": [
+                            {
+                              "advice": "",
+                              "created_at": 1608718326,
+                              "created_by": "thobv",
+                              "created_by_fullname": "Bùi Văn Thọ",
+                              "detail": [
+                                {
+                                  "active": 1,
+                                  "country_id": null,
+                                  "deactive_branch": null,
+                                  "ingredient": {
+                                    "active": 1,
+                                    "ingredient_category_code": "L01BC",
+                                    "ingredient_category_id": 848,
+                                    "ingredient_category_level": 4,
+                                    "ingredient_category_name": "Các chất tương tự pyrimidin",
+                                    "ingredient_category_parent": 843,
+                                    "ingredient_code": "L01BC02",
+                                    "ingredient_id": 850,
+                                    "ingredient_name": "Fluorouracil",
+                                    "ingredient_name_en": "Fluorouracil",
+                                    "is_del": 0
+                                  },
+                                  "ingredient_id": 850,
+                                  "ingredient_name": "Fluorouracil",
+                                  "is_del": 0,
+                                  "last_qtt": 1,
+                                  "manage_expire_date": 0,
+                                  "manufacturer_id": null,
+                                  "number_afternoon": 0,
+                                  "number_day": 1,
+                                  "number_morning": 1,
+                                  "number_night": 0,
+                                  "number_noon": 0,
+                                  "pharma_category_id": 155,
+                                  "pharma_code": "5 FT1",
+                                  "pharma_dosage": "500mg/10ml",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_health_insurance": 0,
+                                  "pharma_id": 2873,
+                                  "pharma_image": "https://his-filesvr.hongngochospital.vnassets/images/hongngoc.png",
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 850,
+                                      "ingredient_name": "Fluorouracil"
+                                    }
+                                  ],
+                                  "pharma_insurance": null,
+                                  "pharma_insurance_all": 0,
+                                  "pharma_interested": 0,
+                                  "pharma_is_insurance": 0,
+                                  "pharma_name": "5 FU",
+                                  "pharma_name_en": "5 FU",
+                                  "pharma_way_to_use": {
+                                    "_id": "927",
+                                    "active": 1,
+                                    "way_to_use_code": "14",
+                                    "way_to_use_id": 927,
+                                    "way_to_use_name": "Xịt",
+                                    "way_to_use_name_en": "Xịt"
+                                  },
+                                  "price": 147000,
+                                  "price_old": 147000,
+                                  "quantity": 1,
+                                  "sum": "99993",
+                                  "supply_id": 1,
+                                  "unit": {
+                                    "active": 1,
+                                    "is_basic": 1,
+                                    "unit_basic_exchange": 1,
+                                    "unit_basic_id": 0,
+                                    "unit_code": "TLO",
+                                    "unit_id": 799,
+                                    "unit_name": "Lọ",
+                                    "unit_name_en": "Lọ",
+                                    "unit_type_id": 1
+                                  },
+                                  "unit_exchange": 1,
+                                  "unit_id": 799,
+                                  "unit_standard_id": null,
+                                  "warehouse_id": [
+                                    154,
+                                    246,
+                                    339,
+                                    393
+                                  ]
+                                }
+                              ],
+                              "examination_prescription_code": "2012232097",
+                              "user_signature": "",
+                              "user_signature_image": null,
+                              "warehouse": {
+                                "active": 1,
+                                "company_id": 1,
+                                "is_del": 0,
+                                "room": {
+                                  "branch_id": 1572,
+                                  "company_id": 1,
+                                  "room_alias": "KKB",
+                                  "room_id": "390",
+                                  "room_name": "Khoa khám bệnh",
+                                  "selected": 0
+                                },
+                                "room_id": "390",
+                                "warehouse_code": "kic",
+                                "warehouse_id": 339,
+                                "warehouse_name": "Kho IT Chính",
+                                "warehouse_type_id": 438
+                              }
+                            }
+                          ],
+                          "results": {
+                            "bmi_char": "Normal Weight",
+                            "bmi_number": 22.89307408198773,
+                            "can_nang": 75,
+                            "chan_doan": "test",
+                            "chan_doan_so_bo": "test",
+                            "chieu_cao": 181,
+                            "huyet_ap1": 10,
+                            "huyet_ap2": 26,
+                            "ket_qua_cls": "test",
+                            "ket_qua_ksk": {
+                              "bmi_char": "Normal Weight",
+                              "bmi_number": 22.89307408198773,
+                              "can_nang": 75,
+                              "chieu_cao": 181,
+                              "huyet_ap": "10/26",
+                              "ket_qua_kham_cls": "",
+                              "mach": 10,
+                              "nhiet_do": 37,
+                              "nhip_tho": 10,
+                              "tien_su_benh": "- Tiền sử bản thân: \n- Tiền sử gia đình:"
+                            },
+                            "mach": 10,
+                            "name_print": "test",
+                            "nhiet_do": 37,
+                            "nhip_tho": 10,
+                            "note": "test",
+                            "service_category_id": 6,
+                            "service_category_name": "Khám bệnh",
+                            "tien_su_benh": "- Tiền sử bản thân: \n- Tiền sử gia đình:",
+                            "xet_bo_phan": "test",
+                            "xet_toan_than": "test"
+                          },
+                          "service_code": "KNOI",
+                          "service_id": 7757,
+                          "service_name": "Khám nội"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_id": {
+            "in_patient": 0,
+            "reception_queue_id": "20120400171458860"
+          },
+          "datas": [
+            {
+              "_id": {
+                "current_day_time": 1607014801,
+                "in_patient": 0,
+                "reception_queue_id": "20120400171458860"
+              },
+              "datas": [
+                {
+                  "_id": {
+                    "current_day_time": 1607014801,
+                    "in_patient": 0,
+                    "reception_queue_id": "20120400171458860",
+                    "service_category_parent_id": 6,
+                    "service_category_parent_name": "Khám bệnh"
+                  },
+                  "datas": [
+                    {
+                      "_id": {
+                        "current_day_time": 1607014801,
+                        "in_patient": 0,
+                        "reception_queue_id": "20120400171458860",
+                        "service_category_id": 6,
+                        "service_category_name": "Khám bệnh",
+                        "service_category_parent_id": 6,
+                        "service_category_parent_name": "Khám bệnh"
+                      },
+                      "datas": [
+                        {
+                          "results": {
+                            "service_category_id": 6,
+                            "service_category_name": "Khám bệnh",
+                            "tien_su_benh": "- Tiền sử bản thân: \n- Tiền sử gia đình:"
+                          },
+                          "service_code": "KMP",
+                          "service_id": 8781,
+                          "service_name": "Khám miễn phí"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_id": {
+            "in_patient": 0,
+            "reception_queue_id": "20122600171458860"
+          },
+          "datas": [
+            {
+              "_id": {
+                "current_day_time": 1608915601,
+                "in_patient": 0,
+                "reception_queue_id": "20122600171458860"
+              },
+              "datas": [
+                {
+                  "_id": {
+                    "current_day_time": 1608915601,
+                    "in_patient": 0,
+                    "reception_queue_id": "20122600171458860",
+                    "service_category_parent_id": 6,
+                    "service_category_parent_name": "Khám bệnh"
+                  },
+                  "datas": [
+                    {
+                      "_id": {
+                        "current_day_time": 1608915601,
+                        "in_patient": 0,
+                        "reception_queue_id": "20122600171458860",
+                        "service_category_id": 6,
+                        "service_category_name": "Khám bệnh",
+                        "service_category_parent_id": 6,
+                        "service_category_parent_name": "Khám bệnh"
+                      },
+                      "datas": [
+                        {
+                          "pharmas": [
+                            {
+                              "advice": "Ăn uống bth (test)",
+                              "created_at": 1608980308,
+                              "created_by": "trungnt",
+                              "created_by_fullname": "Ngô Thành Trung",
+                              "detail": [
+                                {
+                                  "active": 1,
+                                  "country_id": null,
+                                  "deactive_branch": [],
+                                  "ingredient": {
+                                    "active": 1,
+                                    "ingredient_category_code": "L01BC",
+                                    "ingredient_category_id": 848,
+                                    "ingredient_category_level": 4,
+                                    "ingredient_category_name": "Các chất tương tự pyrimidin",
+                                    "ingredient_category_parent": 843,
+                                    "ingredient_code": "L01BC02",
+                                    "ingredient_id": 850,
+                                    "ingredient_name": "Fluorouracil",
+                                    "ingredient_name_en": "Fluorouracil",
+                                    "is_del": 0
+                                  },
+                                  "ingredient_id": 850,
+                                  "ingredient_name": "Fluorouracil",
+                                  "is_del": 0,
+                                  "last_qtt": 1,
+                                  "manage_expire_date": 0,
+                                  "manufacturer_id": null,
+                                  "note": "(test)",
+                                  "number_afternoon": 0,
+                                  "number_day": 1,
+                                  "number_morning": 0,
+                                  "number_night": 0,
+                                  "number_noon": 0,
+                                  "pharma_category_id": "155",
+                                  "pharma_code": "5 FT1",
+                                  "pharma_dosage": "500mg/10ml",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_health_insurance": 0,
+                                  "pharma_id": 2873,
+                                  "pharma_image": "https://his-filesvr.hongngochospital.vnassets/images/hongngoc.png",
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 850,
+                                      "ingredient_name": "Fluorouracil"
+                                    }
+                                  ],
+                                  "pharma_insurance": null,
+                                  "pharma_insurance_all": 0,
+                                  "pharma_interested": 0,
+                                  "pharma_is_insurance": 0,
+                                  "pharma_name": "5 FU",
+                                  "pharma_name_en": "5 FU",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 0,
+                                      "way_to_use_name": "Pha truyền tĩnh mạch"
+                                    }
+                                  ],
+                                  "price": 147000,
+                                  "price_old": 147000,
+                                  "quantity": 1,
+                                  "sum": "99952.00",
+                                  "supply_id": "1",
+                                  "unit": {
+                                    "active": 1,
+                                    "is_basic": 1,
+                                    "unit_basic_exchange": 1,
+                                    "unit_basic_id": 0,
+                                    "unit_code": "TLO",
+                                    "unit_id": "799",
+                                    "unit_name": "Lọ",
+                                    "unit_name_en": "Lọ",
+                                    "unit_type_id": 1
+                                  },
+                                  "unit_exchange": 1,
+                                  "unit_id": 799,
+                                  "unit_standard_id": null,
+                                  "warehouse_id": [
+                                    154,
+                                    246,
+                                    339,
+                                    393
+                                  ]
+                                },
+                                {
+                                  "active": 1,
+                                  "country_id": 291,
+                                  "deactive_branch": [],
+                                  "ingredient_id": null,
+                                  "ingredient_name": null,
+                                  "is_del": 0,
+                                  "last_qtt": 1,
+                                  "manage_expire_date": 0,
+                                  "manufacturer_id": 5804,
+                                  "note": "(test)",
+                                  "number_afternoon": 0,
+                                  "number_morning": 0,
+                                  "number_night": 0,
+                                  "number_noon": 0,
+                                  "pharma_category_id": "196",
+                                  "pharma_code": "ACT1",
+                                  "pharma_dosage": "21 microkatal",
+                                  "pharma_dosage_detail": null,
+                                  "pharma_health_insurance": 0,
+                                  "pharma_id": 324,
+                                  "pharma_image": "text",
+                                  "pharma_ingredient_detail": [
+                                    {
+                                      "ingredient_id": 1610,
+                                      "ingredient_name": "Alphachymotrypsin"
+                                    }
+                                  ],
+                                  "pharma_insurance": [],
+                                  "pharma_insurance_all": 0,
+                                  "pharma_interested": 0,
+                                  "pharma_is_insurance": 0,
+                                  "pharma_name": "Alphachymotrypsin Choay",
+                                  "pharma_name_en": "Alphachymotrypsin Choay",
+                                  "pharma_way_to_use": [
+                                    {
+                                      "way_to_use_id": 1608,
+                                      "way_to_use_name": "Uống"
+                                    },
+                                    {
+                                      "way_to_use_id": 1611,
+                                      "way_to_use_name": "Uống sau ăn"
+                                    },
+                                    {
+                                      "way_to_use_id": 1586,
+                                      "way_to_use_name": "Ngậm"
+                                    }
+                                  ],
+                                  "price": 2100,
+                                  "price_old": 2100,
+                                  "quantity": 1,
+                                  "sum": "99785.00",
+                                  "supply_id": "1",
+                                  "unit": {
+                                    "active": 1,
+                                    "is_basic": 1,
+                                    "unit_basic_exchange": 1,
+                                    "unit_basic_id": 0,
+                                    "unit_code": "TVIEN",
+                                    "unit_id": "800",
+                                    "unit_name": "Viên",
+                                    "unit_name_en": "Viên",
+                                    "unit_type_id": 1
+                                  },
+                                  "unit_exchange": 20,
+                                  "unit_id": 800,
+                                  "unit_standard_id": 834,
+                                  "warehouse_id": [
+                                    118,
+                                    120,
+                                    146,
+                                    150,
+                                    153,
+                                    154,
+                                    155,
+                                    156,
+                                    167,
+                                    170,
+                                    195,
+                                    246,
+                                    311,
+                                    339,
+                                    374,
+                                    376,
+                                    390,
+                                    421,
+                                    433,
+                                    "451",
+                                    "452",
+                                    393,
+                                    387,
+                                    352,
+                                    440,
+                                    408,
+                                    335,
+                                    "145",
+                                    476
+                                  ]
+                                }
+                              ],
+                              "examination_prescription_code": "2012262632",
+                              "user_signature": "Ngô Thành Trung (Test)",
+                              "user_signature_image": null,
+                              "warehouse": {
+                                "active": 1,
+                                "company_id": 1,
+                                "is_del": 0,
+                                "room": {
+                                  "branch_id": 1572,
+                                  "company_id": 1,
+                                  "room_alias": "PKNOI4",
+                                  "room_id": "403",
+                                  "room_name": "P.210 - Khám Nội",
+                                  "selected": 0
+                                },
+                                "room_id": "403",
+                                "warehouse_code": "kic",
+                                "warehouse_id": 339,
+                                "warehouse_name": "Kho IT Chính",
+                                "warehouse_type_id": 438
+                              }
+                            }
+                          ],
+                          "results": {
+                            "benh_su": "Bệnh sử (test)",
+                            "bmi_char": "Normal Weight",
+                            "bmi_number": 20.761245674740486,
+                            "can_nang": 60,
+                            "chan_doan": "Chẩn đoán (test)",
+                            "chan_doan_so_bo": "Chẩn đoán sơ bộ (test)",
+                            "chieu_cao": 170,
+                            "huyet_ap1": 110,
+                            "huyet_ap2": 80,
+                            "ket_qua_ksk": {
+                              "bmi_char": "Normal Weight",
+                              "bmi_number": 20.761245674740486,
+                              "can_nang": 60,
+                              "chieu_cao": 170,
+                              "huyet_ap": "110/80",
+                              "ket_qua_kham_cls": "",
+                              "mach": 55,
+                              "nhiet_do": 37,
+                              "nhip_tho": 34,
+                              "tien_su_benh": "Tiền sử bệnh (test)"
+                            },
+                            "ly_do_vao_vien": "Lý do vào viện (test)",
+                            "mach": 55,
+                            "name_print": "Tên DV in PK (test)",
+                            "nhiet_do": 37,
+                            "nhip_tho": 34,
+                            "note": "Ghi chú (test)",
+                            "service_category_id": 6,
+                            "service_category_name": "Khám bệnh",
+                            "tien_su_benh": "Tiền sử bệnh (test)",
+                            "xet_bo_phan": "Khám xét bộ phận (test)",
+                            "xet_toan_than": "Khám xét toàn thân (test)"
+                          },
+                          "service_code": "KNOI",
+                          "service_id": 7757,
+                          "service_name": "Khám nội"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_id": {
+            "in_patient": 0,
+            "reception_queue_id": "21012000171458860"
+          },
+          "datas": [
+            {
+              "_id": {
+                "current_day_time": 1611075601,
+                "in_patient": 0,
+                "reception_queue_id": "21012000171458860"
+              },
+              "datas": [
+                {
+                  "_id": {
+                    "current_day_time": 1611075601,
+                    "in_patient": 0,
+                    "reception_queue_id": "21012000171458860",
+                    "service_category_parent_id": 5,
+                    "service_category_parent_name": "Thăm Dò Chức Năng"
+                  },
+                  "datas": [
+                    {
+                      "_id": {
+                        "current_day_time": 1611075601,
+                        "in_patient": 0,
+                        "reception_queue_id": "21012000171458860",
+                        "service_category_id": 23,
+                        "service_category_name": "Nội Soi",
+                        "service_category_parent_id": 5,
+                        "service_category_parent_name": "Thăm Dò Chức Năng"
+                      },
+                      "datas": [
+                        {
+                          "results": {},
+                          "service_code": "NSTMH",
+                          "service_id": 7396,
+                          "service_name": "Nội soi tai mũi họng"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "status": true
+}
