@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:treestest/trees/controller_usage.dart';
+import 'package:treestest/trees/medical_history_google_screen.dart';
 import 'package:treestest/trees/tree_from_json.dart';
 import 'package:url_launcher/url_launcher.dart';
 
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: DefaultTabController(
-        length: 2,
+        length: 3,
         child: Scaffold(
           appBar: AppBar(
             title: Text('flutter_simple_treeview Demo'),
@@ -30,6 +31,7 @@ class MyApp extends StatelessWidget {
               tabs: [
                 Tab(text: "Tree Controller Usage"),
                 Tab(text: "Tree From JSON"),
+                Tab(text: "Medical History")
               ],
             ),
           ),
@@ -37,6 +39,7 @@ class MyApp extends StatelessWidget {
             children: [
               buildBodyFrame(ControllerUsage()),
               buildBodyFrame(TreeFromJson()),
+              buildBodyFrame(MedicalHistoryGoogleScreen()),
             ],
           ),
         ),

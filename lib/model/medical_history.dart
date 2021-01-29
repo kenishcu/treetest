@@ -14,16 +14,16 @@ class MetaDataMedicalHistoryParentResult {
 
   MetaDataMedicalHistoryParentResult(this._appVersion, this._errors, this._results);
 
-  MetaDataMedicalHistoryParentResult.fromJson(dynamic json) {
-    _appVersion = json['app_version'];
-    _errors = json['errors'];
+  factory MetaDataMedicalHistoryParentResult.fromJson(dynamic json) {
+    final appVersion = json['app_version'];
+    final errors = json['errors'];
     List<MetaDataMedicalHistoryParent> temp = [];
     for (int i = 0; i < json['results'].length; i++) {
       MetaDataMedicalHistoryParent result = MetaDataMedicalHistoryParent.fromJson(
           json['results'][i]);
       temp.add(result);
     }
-    _results = temp;
+    return MetaDataMedicalHistoryParentResult(appVersion, errors, temp);
   }
 
   dynamic get errors => _errors;
